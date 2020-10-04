@@ -95,6 +95,9 @@ body {
     padding-top: 7rem;
 
   }
+  .container-2 p{
+   padding:1rem;
+  }
   .container-2 > ul > li {
     font-family: "Raleway", sans-serif;
     font-size: 1rem;
